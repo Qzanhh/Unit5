@@ -44,6 +44,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+![demo](https://github.com/user-attachments/assets/f253daa2-9b69-463e-a638-676da82cec64)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
